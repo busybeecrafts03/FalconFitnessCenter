@@ -1,0 +1,108 @@
+body {
+	background-color: #FFFFFF;	color: black; 
+	font-family: "Courier New", Arial, Serif;
+	font-size: 12pt ;
+	text-align: center;}
+
+h1 {
+	
+	color:white;
+	font-weight:1000;
+	font-style: oblique;
+	text-align: center;
+	}
+	
+h2 {
+	background-color: #273D4C; 
+	color:white;
+	font-weight:1000;
+	font-style: oblique;
+	text-align: center;
+	}
+	
+h3 {
+	background-color: #273D4C; 
+	color:white;
+	font-weight:1000;
+	font-style: normal;
+	text-align: center;
+	}
+
+a	{color: #78323D;}
+	
+	p {
+	border: solid 10px #78323D;
+	padding: 17px;
+	margin: 10px;
+	border-style: outset /*inset*/;
+	border-width: 4px;
+	border-bottom-color:#78323D;
+	border-left-color: ;
+	border-top-color: #78323D;
+	border-right-color: #78323D;
+	border-radius: 10px;
+	box-shadow: 10px 10px 2px black;
+	border-width: 30px;
+	border-left-width: 30px;
+	border-right-width: 30px;
+	border-bottom-width: 30px;
+	border-top-width: 30px;
+	text-align: ;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+	table {
+	border: solid 10px #78323D;
+	padding: 17px;
+	margin: 10px;
+	border-style: outset /*inset*/;
+	border-width: 4px;
+	border-bottom-color:#78323D;
+	border-left-color: ;
+	border-top-color: #78323D;
+	border-right-color: #78323D;
+	border-radius: 10px;
+	box-shadow: 10px 10px 2px black;
+	border-width: 30px;
+	border-left-width: 30px;
+	border-right-width: 30px;
+	border-bottom-width: 30px;
+	border-top-width: 30px;
+	text-align: ;
+	margin-right: auto;
+	margin-left: auto;
+	}
+ul{
+	display: inline-block;
+	border: solid 1px black;
+	padding: 17px;
+	padding-bottom:;
+	margin: 10px;
+	border-style: outset;
+	border-width: 12px;
+	border-color: #h2;
+	background-color: #273D4C; 
+	color:white;
+	font-weight:1000;
+	font-style: oblique;
+	text-align: center;
+	border-radius: 20px;
+	text-align: left;
+	box-shadow: 10px 10px 2px black;
+}
+
+.container1{
+		margin-left: auto;
+		margin-right: auto;
+		position:relative;
+		left:50px;
+}
+
+.container2{
+			display: flex;
+			margin-left: auto;
+			margin-right: auto;
+			position:relative;
+			left:50px;
+}
